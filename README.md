@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website — a showcase of my skills, projects, and professional journey.
 
-🌐 **Live Site:** [ayushs135.github.io/Portfolio-Website](https://ayushs135.github.io/Portfolio-Website)
+🌐 **Live Site:** [ayushs135.github.io/Portfolio](https://ayushs135.github.io/portfolio/)
 
 ---
 
